@@ -1,0 +1,12 @@
+{
+  "version": "nlp_v1",
+  "timestamp_unit": "ms",
+  "texte_analyse": "title + text",
+  "min_token_len": 2,
+  "drop_numeric_tokens": true,
+  "strip_html_tags": true,
+  "normalize_negations": true,
+  "negations_conservees": ["no", "nor", "not", "never"],
+  "stopwords": "liste anglaise standard (dans prepare_silver.py), negations exclues",
+  "seuil_avis_produit": 20
+}

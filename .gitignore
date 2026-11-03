@@ -38,3 +38,5 @@ target/
 .venv/
 __pycache__/
 .idea/
+!data/toy/
+!data/toy/*.jsonl

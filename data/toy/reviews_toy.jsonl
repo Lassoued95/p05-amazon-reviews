@@ -1,0 +1,12 @@
+{"rating": 4.0, "title": "Quiet", "text": "Works great. It's quiet and reliable!", "images": [], "asin": "P1", "parent_asin": "P1", "user_id": "U1", "timestamp": 1672531200000, "helpful_vote": 0, "verified_purchase": true}
+{"rating": 5.0, "title": "Love it", "text": "Quiet quiet motor, delivery was fast.", "images": [], "asin": "P1", "parent_asin": "P1", "user_id": "U2", "timestamp": 1672617600000, "helpful_vote": 0, "verified_purchase": true}
+{"rating": 2.0, "title": "Not good", "text": "It doesn't work and I can't recommend it <br />", "images": [], "asin": "P1", "parent_asin": "P1", "user_id": "U3", "timestamp": 1675209600000, "helpful_vote": 0, "verified_purchase": true}
+{"rating": 3.0, "title": "OK", "text": "Average fridge, loud compressor.", "images": [], "asin": "P2", "parent_asin": "P2", "user_id": "U4", "timestamp": 1675296000000, "helpful_vote": 0, "verified_purchase": true}
+{"rating": 3.0, "title": "OK", "text": "Average fridge, loud compressor.", "images": [], "asin": "P2", "parent_asin": "P2", "user_id": "U4", "timestamp": 1675296000000, "helpful_vote": 0, "verified_purchase": true}
+{this is not json
+{"rating": 7.0, "title": "Bad rating", "text": "Rating out of range", "images": [], "asin": "P2", "parent_asin": "P2", "user_id": "U5", "timestamp": 1675296000000, "helpful_vote": 0, "verified_purchase": true}
+{"rating": 4.0, "title": "", "text": "", "images": [], "asin": "P2", "parent_asin": "P2", "user_id": "U6", "timestamp": 1675296000000, "helpful_vote": 0, "verified_purchase": true}
+{"rating": 4.0, "title": "x", "text": "no parent asin", "timestamp": 1675296000000, "user_id": "U7"}
+{"rating": 4.0, "title": "Seconds", "text": "timestamp in seconds", "images": [], "asin": "P2", "parent_asin": "P2", "user_id": "U8", "timestamp": 1675296000, "helpful_vote": 0, "verified_purchase": true}
+{"rating": 5.0, "title": "1", "text": "10 5", "images": [], "asin": "P3", "parent_asin": "P3", "user_id": "U9", "timestamp": 1677628800000, "helpful_vote": 0, "verified_purchase": true}
+{"rating": 4.0, "title": "", "text": "Very quiet fridge", "images": [], "asin": "P2", "parent_asin": "P2", "user_id": "U10", "timestamp": 1675382400000, "helpful_vote": 0, "verified_purchase": true}
