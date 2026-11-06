@@ -7,7 +7,7 @@ services:
       - "9870:9870"
     env_file: ./config
     environment:
-      ENSURE_NAMENODE_DIR: "/tmp/hadoop-root/dfs/name"
+      ENSURE_NAMENODE_DIR: "/tmp/hadoop-hadoop/dfs/name"
     volumes:
       - ../data:/data
       - ../mapreduce:/mapreduce
